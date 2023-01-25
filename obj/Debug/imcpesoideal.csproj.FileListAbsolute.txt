@@ -1,0 +1,11 @@
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\obj\Debug\imcpesoideal.csproj.AssemblyReference.cache
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\obj\Debug\imcpesoideal.csproj.SuggestedBindingRedirects.cache
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\obj\Debug\imcpesoideal.Form1.resources
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\obj\Debug\imcpesoideal.Properties.Resources.resources
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\obj\Debug\imcpesoideal.csproj.GenerateResource.cache
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\obj\Debug\imcpesoideal.csproj.CoreCompileInputs.cache
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\bin\Debug\imcpesoideal.exe.config
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\bin\Debug\imcpesoideal.exe
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\bin\Debug\imcpesoideal.pdb
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\obj\Debug\imcpesoideal.exe
+C:\Users\SALLEN\Desktop\calculadora imc\imcpesoideal\obj\Debug\imcpesoideal.pdb
